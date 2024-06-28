@@ -52,7 +52,7 @@ This project provides a simple yet effective user authentication system built wi
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/vishal-ravi/UserAuthProject.git
+   https://github.com/vishal-ravi/User-Authentication-Project.git
    ```
 
 2. **Set Up the Database:**
