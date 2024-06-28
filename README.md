@@ -105,7 +105,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 #### Contact
 
-For any questions or feedback, please create an issue or contact me at [your-email@example.com].
+For any questions or feedback, please create an issue or contact me at [vishalravi294@gmail.com].
 
 ---
 
