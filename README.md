@@ -108,5 +108,3 @@ This project is open source and available under the [MIT License](LICENSE).
 For any questions or feedback, please create an issue or contact me at [vishalravi294@gmail.com].
 
 ---
-
-Feel free to customize the description, prerequisites, and contact information as per your requirements.
